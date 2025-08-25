@@ -1,0 +1,10 @@
+devices:
+  - name: router-1
+    ip: 192.168.1.1
+    location: New York
+  - name: switch-1
+    ip: 10.0.0.1
+    location: London
+  - name: firewall-1
+    ip: 172.16.0.1
+    location: Tokyo
